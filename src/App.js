@@ -80,6 +80,7 @@ function App() {
             </button>
           </div>
         </header>
+        
 
         <div className="crypto-list-container">
           {loading ? (
